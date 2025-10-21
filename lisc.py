@@ -21,5 +21,5 @@ for i in range (1, 1000000):
 plt.plot(x, y, '.', markersize = 0.05, color = 'green')
 plt.xlim(-3, 3)
 plt.ylim(0, 10)
-plt.savefig("paproc.png")
+plt.savefig("list.png")
 plt.show()
